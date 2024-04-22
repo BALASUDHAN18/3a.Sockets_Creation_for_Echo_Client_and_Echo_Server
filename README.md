@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+## Name:P Balasudhan
+## Reg no:212222240017
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -56,3 +58,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
+
